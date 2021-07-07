@@ -1,1 +1,1 @@
-{"rewrites":[{"source":"/view/:id(\\d+)","destination":"/view/_id_d_plus.html"},{"source":"/show/:id(\\d+)","destination":"/show/_id_d_plus.html"}]}
+{"rewrites":[{"source":"/show/:id(\\d+)","destination":"/show/_id_d_plus.html"}]}
